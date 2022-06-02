@@ -18,4 +18,4 @@ Final Project for MATH60 at Dartmouth.
 
 
 ## Data
-Obtained from [Kaggle](https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews)
+Obtained from [Kaggle](https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews).
